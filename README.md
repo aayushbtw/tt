@@ -1,2 +1,2 @@
 # tt
-A minimalist CLI typing speed test
+cli based typing test
